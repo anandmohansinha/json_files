@@ -1,0 +1,2611 @@
+{
+   "status": "SUCCESS",
+   "message": "SUCCESS",
+   "adjudicationCompCategory": [
+      {
+         "compCategoryName": "CVR",
+         "AdjCategory": {
+            "compCategory": "CVR",
+            "category": "PROFESSIONAL LICENSURE",
+            "subCategory": [
+               {
+                  "categoryId": "344",
+                  "compCategory": "CVR",
+                  "category": "PROFESSIONAL LICENSURE",
+                  "subCategory": "Current, valid license issued to the applicant with no disciplinary action listed",
+                  "score": "E"
+               },
+               {
+                  "categoryId": "345",
+                  "compCategory": "CVR",
+                  "category": "PROFESSIONAL LICENSURE",
+                  "subCategory": "Name on the License is abbreviated (Jon vs. Jonathan)"
+               },
+               {
+                  "categoryId": "346",
+                  "compCategory": "CVR",
+                  "category": "PROFESSIONAL LICENSURE",
+                  "subCategory": "Name on the License does not match (other than for abbreviated names)"
+               },
+               {
+                  "categoryId": "347",
+                  "compCategory": "CVR",
+                  "category": "PROFESSIONAL LICENSURE",
+                  "subCategory": "Disciplinary Action Found"
+               },
+               {
+                  "categoryId": "348",
+                  "compCategory": "CVR",
+                  "category": "PROFESSIONAL LICENSURE",
+                  "subCategory": "No record found of listed license"
+               },
+               {
+                  "categoryId": "349",
+                  "compCategory": "CVR",
+                  "category": "PROFESSIONAL LICENSURE",
+                  "subCategory": "Unable to verify (UTV)"
+               },
+               {
+                  "categoryId": "350",
+                  "compCategory": "CVR",
+                  "category": "PROFESSIONAL LICENSURE",
+                  "subCategory": "License/Certificate Type - Does not match"
+               },
+               {
+                  "categoryId": "351",
+                  "compCategory": "CVR",
+                  "category": "PROFESSIONAL LICENSURE",
+                  "subCategory": "License/Certificate Number - Does not match"
+               },
+               {
+                  "categoryId": "352",
+                  "compCategory": "CVR",
+                  "category": "PROFESSIONAL LICENSURE",
+                  "subCategory": "License/Certificate Expiration Date - 'Expired' (unless candidate indicates it is expired)"
+               }
+            ]
+         }
+      },
+      {
+         "compCategoryName": "EMP, ED",
+         "AdjCategory": [
+            {
+               "compCategory": "EMP, ED",
+               "category": "EMPLOYMENT",
+               "subCategory": [
+                  {
+                     "categoryId": "321",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "All information provided by applicant is verified w/no discrepancies",
+                     "score": "E"
+                  },
+                  {
+                     "categoryId": "322",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Any non-extreme job title discrepancies"
+                  },
+                  {
+                     "categoryId": "323",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Extreme/Major discrepancy in job title/position"
+                  },
+                  {
+                     "categoryId": "324",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Ineligible for rehire due to company policy"
+                  },
+                  {
+                     "categoryId": "325",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Ineligible for rehire for any reason except �company policy�"
+                  },
+                  {
+                     "categoryId": "326",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Employment terminated by employer for cause"
+                  },
+                  {
+                     "categoryId": "327",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Variance in reason employment ended (i.e., voluntary vs. terminated)"
+                  },
+                  {
+                     "categoryId": "328",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Date discrepancies of 90 days or longer (date range can be changed to any amount)"
+                  },
+                  {
+                     "categoryId": "329",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Date discrepancies of less than 90 days (date range can be changed to any amount)"
+                  },
+                  {
+                     "categoryId": "330",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Unable to locate employer or unable to verify with reliable source"
+                  },
+                  {
+                     "categoryId": "331",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Records not maintained at source."
+                  },
+                  {
+                     "categoryId": "332",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "No record of the applicant�s employment"
+                  },
+                  {
+                     "categoryId": "333",
+                     "compCategory": "EMP, ED",
+                     "category": "EMPLOYMENT",
+                     "subCategory": "Employment noted as contract or temporary"
+                  }
+               ]
+            },
+            {
+               "compCategory": "EMP, ED",
+               "category": "EDUCATION",
+               "subCategory": [
+                  {
+                     "categoryId": "334",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "Information confirmed/no adverse information identified",
+                     "score": "E"
+                  },
+                  {
+                     "categoryId": "335",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "No record found (did not attend)"
+                  },
+                  {
+                     "categoryId": "336",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "No record of degree claimed"
+                  },
+                  {
+                     "categoryId": "337",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "Date discrepancies of 90 days or longer (date range can be changed to any amount)"
+                  },
+                  {
+                     "categoryId": "338",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "Date discrepancies of less than 90 days (date range can be changed to any amount)"
+                  },
+                  {
+                     "categoryId": "339",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "Major claimed is in unrelated areas of study i.e. Business Management vs. English History, etc."
+                  },
+                  {
+                     "categoryId": "340",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "Variance in level of  degree (associate, bachelor, master, doctorate)"
+                  },
+                  {
+                     "categoryId": "341",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "Unable to locate school (UTL) or unable to verify with reliable source (UTV)"
+                  },
+                  {
+                     "categoryId": "342",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "Applicant's records are on academic hold"
+                  },
+                  {
+                     "categoryId": "343",
+                     "compCategory": "EMP, ED",
+                     "category": "EDUCATION",
+                     "subCategory": "No response to verification after 3 attempts in 3 days"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "compCategoryName": "MVR",
+         "AdjCategory": [
+            {
+               "compCategory": "MVR",
+               "category": "License Status",
+               "subCategory": [
+                  {
+                     "categoryId": "195",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "License Currently Suspended / Revoked"
+                  },
+                  {
+                     "categoryId": "196",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "License currently valid, but has historical suspensions or revocations"
+                  },
+                  {
+                     "categoryId": "197",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "Not a Driver - State ID only"
+                  },
+                  {
+                     "categoryId": "198",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "Motorcycle license only - not permitted for automobile"
+                  },
+                  {
+                     "categoryId": "199",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "License resticted to use to / from work or school only"
+                  },
+                  {
+                     "categoryId": "200",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "Learner's Permit or Provisional License only"
+                  },
+                  {
+                     "categoryId": "190",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "Valid license issued to applicant w/ no considerations",
+                     "score": "E"
+                  },
+                  {
+                     "categoryId": "191",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "No record found"
+                  },
+                  {
+                     "categoryId": "192",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "License has major variation in name or date of birth"
+                  },
+                  {
+                     "categoryId": "193",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "Applicant is less than 18 years old"
+                  },
+                  {
+                     "categoryId": "194",
+                     "compCategory": "MVR",
+                     "category": "License Status",
+                     "subCategory": "License Currently Expired"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "ACCIDENT VIOLATIONS",
+               "subCategory": [
+                  {
+                     "categoryId": "201",
+                     "compCategory": "MVR",
+                     "category": "ACCIDENT VIOLATIONS",
+                     "subCategory": "Convicted / At Fault / Responsible for Accident"
+                  },
+                  {
+                     "categoryId": "202",
+                     "compCategory": "MVR",
+                     "category": "ACCIDENT VIOLATIONS",
+                     "subCategory": "Convicted / At Fault / Responsible for Fatal Accident"
+                  },
+                  {
+                     "categoryId": "203",
+                     "compCategory": "MVR",
+                     "category": "ACCIDENT VIOLATIONS",
+                     "subCategory": "Failure to Report Accident"
+                  },
+                  {
+                     "categoryId": "204",
+                     "compCategory": "MVR",
+                     "category": "ACCIDENT VIOLATIONS",
+                     "subCategory": "Involved in Accident"
+                  },
+                  {
+                     "categoryId": "205",
+                     "compCategory": "MVR",
+                     "category": "ACCIDENT VIOLATIONS",
+                     "subCategory": "Involved in Fatal Accident"
+                  },
+                  {
+                     "categoryId": "206",
+                     "compCategory": "MVR",
+                     "category": "ACCIDENT VIOLATIONS",
+                     "subCategory": "Leaving the Scene of an Accident / Hit  &  Run"
+                  },
+                  {
+                     "categoryId": "207",
+                     "compCategory": "MVR",
+                     "category": "ACCIDENT VIOLATIONS",
+                     "subCategory": "Refuse to Reveal Identity after an Accident"
+                  },
+                  {
+                     "categoryId": "208",
+                     "compCategory": "MVR",
+                     "category": "ACCIDENT VIOLATIONS",
+                     "subCategory": "Vehicular Homicide/Manslaughter"
+                  },
+                  {
+                     "categoryId": "209",
+                     "compCategory": "MVR",
+                     "category": "ACCIDENT VIOLATIONS",
+                     "subCategory": "Other Not Specified Accident Related Violation"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "DOCUMENTATION",
+               "subCategory": [
+                  {
+                     "categoryId": "210",
+                     "compCategory": "MVR",
+                     "category": "DOCUMENTATION",
+                     "subCategory": "Driving without a Current Medical card (CDL only)"
+                  },
+                  {
+                     "categoryId": "211",
+                     "compCategory": "MVR",
+                     "category": "DOCUMENTATION",
+                     "subCategory": "Filing a False Report with the DMV"
+                  },
+                  {
+                     "categoryId": "212",
+                     "compCategory": "MVR",
+                     "category": "DOCUMENTATION",
+                     "subCategory": "Log Book violation (CDL only)"
+                  },
+                  {
+                     "categoryId": "213",
+                     "compCategory": "MVR",
+                     "category": "DOCUMENTATION",
+                     "subCategory": "Providing false statement and/or documentation"
+                  },
+                  {
+                     "categoryId": "214",
+                     "compCategory": "MVR",
+                     "category": "DOCUMENTATION",
+                     "subCategory": "Other not specified documentation violation"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "DUI/DWI OR DRUG VIOLATIONS",
+               "subCategory": [
+                  {
+                     "categoryId": "215",
+                     "compCategory": "MVR",
+                     "category": "DUI/DWI OR DRUG VIOLATIONS",
+                     "subCategory": "Alcohol Related Reckless Driving"
+                  },
+                  {
+                     "categoryId": "216",
+                     "compCategory": "MVR",
+                     "category": "DUI/DWI OR DRUG VIOLATIONS",
+                     "subCategory": "DUI / DWI / OWI Alcohol or Unspecified"
+                  },
+                  {
+                     "categoryId": "217",
+                     "compCategory": "MVR",
+                     "category": "DUI/DWI OR DRUG VIOLATIONS",
+                     "subCategory": "DUI / DWI / OWI Drug Related"
+                  },
+                  {
+                     "categoryId": "218",
+                     "compCategory": "MVR",
+                     "category": "DUI/DWI OR DRUG VIOLATIONS",
+                     "subCategory": "Illegal Possession of Drugs"
+                  },
+                  {
+                     "categoryId": "219",
+                     "compCategory": "MVR",
+                     "category": "DUI/DWI OR DRUG VIOLATIONS",
+                     "subCategory": "Open Container in Vehicle / Driver"
+                  },
+                  {
+                     "categoryId": "220",
+                     "compCategory": "MVR",
+                     "category": "DUI/DWI OR DRUG VIOLATIONS",
+                     "subCategory": "Refusal to Test"
+                  },
+                  {
+                     "categoryId": "221",
+                     "compCategory": "MVR",
+                     "category": "DUI/DWI OR DRUG VIOLATIONS",
+                     "subCategory": "Other Not Specified Alcohol or Drug Violation"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "EQUIPMENT VIOLATIONS",
+               "subCategory": [
+                  {
+                     "categoryId": "222",
+                     "compCategory": "MVR",
+                     "category": "EQUIPMENT VIOLATIONS",
+                     "subCategory": "Defective or Faulty Vehicle"
+                  },
+                  {
+                     "categoryId": "223",
+                     "compCategory": "MVR",
+                     "category": "EQUIPMENT VIOLATIONS",
+                     "subCategory": "Other Not Specified Equipment Violation"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+               "subCategory": [
+                  {
+                     "categoryId": "224",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "Allow Unlicensed Driver"
+                  },
+                  {
+                     "categoryId": "225",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "DL Expired - Any time (but currently valid)"
+                  },
+                  {
+                     "categoryId": "226",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "DL Suspended / Revoked - Anytime (but currently valid)"
+                  },
+                  {
+                     "categoryId": "227",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "Driving a CMV with improper class or endorsement"
+                  },
+                  {
+                     "categoryId": "228",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "Driving CMV while CDL revoked, suspended, cancelled or driver disqualified from operating a CMV"
+                  },
+                  {
+                     "categoryId": "229",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "Driving while License Suspended/Revoked/Expired/Cancelled"
+                  },
+                  {
+                     "categoryId": "230",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "Failure to display DL on demand"
+                  },
+                  {
+                     "categoryId": "231",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "Unlicensed Driver"
+                  },
+                  {
+                     "categoryId": "232",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "Violate License Restrictions"
+                  },
+                  {
+                     "categoryId": "233",
+                     "compCategory": "MVR",
+                     "category": "LICENSE/CLASS/ENDORSEMENT VIOLATIONS",
+                     "subCategory": "Other not specified license/class/endorsement violation"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "MOVING VIOLATIONS",
+               "subCategory": [
+                  {
+                     "categoryId": "234",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Careless Driving"
+                  },
+                  {
+                     "categoryId": "235",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Construction zone violation"
+                  },
+                  {
+                     "categoryId": "236",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Distracted Driving (cell phone, texting, etc.)"
+                  },
+                  {
+                     "categoryId": "237",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Driving too fast for conditions"
+                  },
+                  {
+                     "categoryId": "238",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Driving too slow"
+                  },
+                  {
+                     "categoryId": "239",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Failure to obey traffic control device / sign / light"
+                  },
+                  {
+                     "categoryId": "240",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Failure to stop conviction"
+                  },
+                  {
+                     "categoryId": "241",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Failure to wear seatbelt"
+                  },
+                  {
+                     "categoryId": "242",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Failure to Yield Right of Way"
+                  },
+                  {
+                     "categoryId": "243",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Following too Closely / Tailgating / Assured Clear Distance"
+                  },
+                  {
+                     "categoryId": "244",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Illegal lane change"
+                  },
+                  {
+                     "categoryId": "245",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Improper or erratic lane change"
+                  },
+                  {
+                     "categoryId": "246",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Improper Passing"
+                  },
+                  {
+                     "categoryId": "247",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Improper Stopping"
+                  },
+                  {
+                     "categoryId": "248",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Other not specified moving traffic violations"
+                  },
+                  {
+                     "categoryId": "249",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Passing a stopped school bus"
+                  },
+                  {
+                     "categoryId": "250",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Reckless driving"
+                  },
+                  {
+                     "categoryId": "251",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Reckless driving resulting in property damage or injury"
+                  },
+                  {
+                     "categoryId": "252",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Speed contest / drag racing / excessive acceleration"
+                  },
+                  {
+                     "categoryId": "253",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Speeding"
+                  },
+                  {
+                     "categoryId": "254",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Unsafe operation of MV"
+                  },
+                  {
+                     "categoryId": "255",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Use vehicle to evade or flee LEO"
+                  },
+                  {
+                     "categoryId": "256",
+                     "compCategory": "MVR",
+                     "category": "MOVING VIOLATIONS",
+                     "subCategory": "Weaving"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "NON-MOVING VIOLATIONS",
+               "subCategory": [
+                  {
+                     "categoryId": "257",
+                     "compCategory": "MVR",
+                     "category": "NON-MOVING VIOLATIONS",
+                     "subCategory": "Parking violation"
+                  },
+                  {
+                     "categoryId": "258",
+                     "compCategory": "MVR",
+                     "category": "NON-MOVING VIOLATIONS",
+                     "subCategory": "Other not specified non-moving violation"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "OTHER",
+               "subCategory": [
+                  {
+                     "categoryId": "259",
+                     "compCategory": "MVR",
+                     "category": "OTHER",
+                     "subCategory": "Illegal Possession of a Weapon"
+                  },
+                  {
+                     "categoryId": "260",
+                     "compCategory": "MVR",
+                     "category": "OTHER",
+                     "subCategory": "Interlock device required"
+                  },
+                  {
+                     "categoryId": "261",
+                     "compCategory": "MVR",
+                     "category": "OTHER",
+                     "subCategory": "Name variation on MVR report"
+                  },
+                  {
+                     "categoryId": "262",
+                     "compCategory": "MVR",
+                     "category": "OTHER",
+                     "subCategory": "Use of a vehicle in the commission of a felony"
+                  },
+                  {
+                     "categoryId": "263",
+                     "compCategory": "MVR",
+                     "category": "OTHER",
+                     "subCategory": "Other not specified violation"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "OUT-OF-SERVICE ORDERS VIOLATIONS (CMV)",
+               "subCategory": [
+                  {
+                     "categoryId": "264",
+                     "compCategory": "MVR",
+                     "category": "OUT-OF-SERVICE ORDERS VIOLATIONS (CMV)",
+                     "subCategory": "Violating out-of-service order - transport hazmat requiring placard or operate vehicle designed for 16 or more passengers, including driver"
+                  },
+                  {
+                     "categoryId": "265",
+                     "compCategory": "MVR",
+                     "category": "OUT-OF-SERVICE ORDERS VIOLATIONS (CMV)",
+                     "subCategory": "Violating out-of-service order - transport nonhazardous materials"
+                  },
+                  {
+                     "categoryId": "266",
+                     "compCategory": "MVR",
+                     "category": "OUT-OF-SERVICE ORDERS VIOLATIONS (CMV)",
+                     "subCategory": "Other not specified out-of service order violation"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "PLATE/TAG VIOLATIONS",
+               "subCategory": [
+                  {
+                     "categoryId": "267",
+                     "compCategory": "MVR",
+                     "category": "PLATE/TAG VIOLATIONS",
+                     "subCategory": "Expired tag"
+                  },
+                  {
+                     "categoryId": "268",
+                     "compCategory": "MVR",
+                     "category": "PLATE/TAG VIOLATIONS",
+                     "subCategory": "Fictitious tag / improper display"
+                  },
+                  {
+                     "categoryId": "269",
+                     "compCategory": "MVR",
+                     "category": "PLATE/TAG VIOLATIONS",
+                     "subCategory": "No tag"
+                  },
+                  {
+                     "categoryId": "270",
+                     "compCategory": "MVR",
+                     "category": "PLATE/TAG VIOLATIONS",
+                     "subCategory": "Obscured / defaced tag"
+                  },
+                  {
+                     "categoryId": "271",
+                     "compCategory": "MVR",
+                     "category": "PLATE/TAG VIOLATIONS",
+                     "subCategory": "Other not specified plate / tag violation"
+                  }
+               ]
+            },
+            {
+               "compCategory": "MVR",
+               "category": "RAILROAD/HIGHWAY CROSSINGS VIOLATIONS",
+               "subCategory": [
+                  {
+                     "categoryId": "272",
+                     "compCategory": "MVR",
+                     "category": "RAILROAD/HIGHWAY CROSSINGS VIOLATIONS",
+                     "subCategory": "Failure to negotiate railway / highway crossing due to insufficient undercarriage clearance."
+                  },
+                  {
+                     "categoryId": "273",
+                     "compCategory": "MVR",
+                     "category": "RAILROAD/HIGHWAY CROSSINGS VIOLATIONS",
+                     "subCategory": "Failure to obey railroad crossing signal / device"
+                  },
+                  {
+                     "categoryId": "274",
+                     "compCategory": "MVR",
+                     "category": "RAILROAD/HIGHWAY CROSSINGS VIOLATIONS",
+                     "subCategory": "Failure to slow and check for oncoming train"
+                  },
+                  {
+                     "categoryId": "275",
+                     "compCategory": "MVR",
+                     "category": "RAILROAD/HIGHWAY CROSSINGS VIOLATIONS",
+                     "subCategory": "Failure to stop at railway crossing when required"
+                  },
+                  {
+                     "categoryId": "276",
+                     "compCategory": "MVR",
+                     "category": "RAILROAD/HIGHWAY CROSSINGS VIOLATIONS",
+                     "subCategory": "Stop vehicle on railroad tracks"
+                  },
+                  {
+                     "categoryId": "277",
+                     "compCategory": "MVR",
+                     "category": "RAILROAD/HIGHWAY CROSSINGS VIOLATIONS",
+                     "subCategory": "Other not specified railroad/highway crossing violations"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "compCategoryName": "Felonies  &  SOR",
+         "AdjCategory": [
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Sex Offender Registry",
+               "subCategory": {
+                  "categoryId": "1",
+                  "compCategory": "Felonies  &  SOR",
+                  "category": "Sex Offender Registry",
+                  "subCategory": "Sex Offender Registry",
+                  "example": "A Sex Offender Registry hit is not a court case - it is a record stating that a person is a Registered Sex Offender only.  The underlying offense cannot be taken into consideration when assigning a score: only the fact that a person is currently registered may be taken into consideration."
+               }
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Civil Disobedience",
+               "subCategory": [
+                  {
+                     "categoryId": "2",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Alcohol",
+                     "example": "illegal possession, public consumption, provide to minor, unsealed container in passenger area of vehicle"
+                  },
+                  {
+                     "categoryId": "3",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Animal Ordinance",
+                     "example": "dog not on leash, no tags, barking dogs"
+                  },
+                  {
+                     "categoryId": "4",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Boating  &  Recreation Violations",
+                     "example": "no personal floatation device, no wake zone violation, water-skier without observer"
+                  },
+                  {
+                     "categoryId": "5",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Fish  &  Game",
+                     "example": "hunting  / fishing w/o permit, undersize fish, no hunter orange"
+                  },
+                  {
+                     "categoryId": "6",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Other Civil Ordinance",
+                     "example": "city / county code violations: illegal sale of fireworks, illegal dumping, no building permit, weeds too high, unlicensed vendor"
+                  },
+                  {
+                     "categoryId": "7",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Public Nuisance",
+                     "example": "in park after dark, begging, public urination, littering, unlawful storage, pollutants in waterways"
+                  },
+                  {
+                     "categoryId": "8",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Tobacco",
+                     "example": "sell tobacco to minor"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Criminal Intent",
+               "subCategory": [
+                  {
+                     "categoryId": "9",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Abuse",
+                     "example": "elder abuse, abuse of vulnerable / disabled adult, patient abuse, abuse by caretaker"
+                  },
+                  {
+                     "categoryId": "10",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Bribery",
+                     "example": "attempt to influence public servant, offer / accept a bribe"
+                  },
+                  {
+                     "categoryId": "11",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Child Related",
+                     "example": "not sending child to school, leave child unattended"
+                  },
+                  {
+                     "categoryId": "12",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Civil Rights Violations",
+                     "example": "wiretapping, eavesdropping, invasion of privacy, violate civil rights, violate rights of prisoner / person in custody"
+                  },
+                  {
+                     "categoryId": "13",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Conspiracy / Accessory",
+                     "example": "aid  &  abet, conspiracy before / after the fact, engage in organized criminal activity, money laundering, gang / mob action"
+                  },
+                  {
+                     "categoryId": "14",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Corruption of Minor",
+                     "example": "contributing to the delinquency of a minor, unlawful transaction with a minor"
+                  },
+                  {
+                     "categoryId": "15",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Criminal Tools",
+                     "example": "possession of burglary tools, instruments of crime"
+                  },
+                  {
+                     "categoryId": "16",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Endangerment  &  Neglect",
+                     "example": "Criminal mistreatment, reckless endangerment, wanton endangerment, neglect or abandon vulnerable person"
+                  },
+                  {
+                     "categoryId": "17",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "False Statements  &  Reports",
+                     "example": "false report of a crime, fictitious information to officer, false alarm"
+                  },
+                  {
+                     "categoryId": "18",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Gambling",
+                     "example": "gambling promotion, engage in unlawful gambling"
+                  },
+                  {
+                     "categoryId": "19",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Identity Related",
+                     "example": "unlawful use if ID; present false identification; misrepresent age"
+                  },
+                  {
+                     "categoryId": "20",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Impersonating an Officer",
+                     "example": "impersonating a public officer / employee / peace officer, blue light prohibited"
+                  },
+                  {
+                     "categoryId": "21",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Injury",
+                     "example": "any offense resulting in injury or death unless Vehicular related (separate category), Reckless Injury, Negligent Injury, Willful Injury, Physical Harm specification"
+                  },
+                  {
+                     "categoryId": "22",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Juvenile / Minor Participation",
+                     "example": "Truancy, anything 'by a minor'"
+                  },
+                  {
+                     "categoryId": "23",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Loiter  &  Prowl",
+                     "example": "loitering with intent, lurking, prowling, gang loitering"
+                  },
+                  {
+                     "categoryId": "24",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Other Non-violent",
+                     "example": "annoying / crank phone calls;non-emergency calls; improper use of 9-1-1;maintain common nuisance"
+                  },
+                  {
+                     "categoryId": "25",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Perjury  &  Contempt",
+                     "example": "criminal contempt, perjury, failure to comply with court order"
+                  },
+                  {
+                     "categoryId": "26",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Resist / Obstruct / Evade / Flee",
+                     "example": "bail jumping, evade / resist arrest (w/o violence), obstruct justice"
+                  },
+                  {
+                     "categoryId": "27",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Tampering - Nonviolent",
+                     "example": "tampering with documents, utility service, etc."
+                  },
+                  {
+                     "categoryId": "28",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Vehicular Assault / Injury / Death",
+                     "example": "Vehicular assault; any vehicle or traffic related offenses that resulted in injury or death (not including Vehicular Homicide)."
+                  },
+                  {
+                     "categoryId": "29",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Vehicular Related",
+                     "example": "joyriding, unauthorized use of vehicle (not auto theft), etc."
+                  },
+                  {
+                     "categoryId": "30",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Warrant  &  Probation / Appearance",
+                     "example": "Probation violation, Bail jumping, Failure to appear as a separate offense (this is not for active warrants)"
+                  },
+                  {
+                     "categoryId": "31",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Criminal Intent",
+                     "subCategory": "Weapons - Nonviolent",
+                     "example": "carry concealed w/o permit, unlawful discharge (accidental), own / possess prohibited weapon, pointing a weapon"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Domestic Crimes",
+               "subCategory": [
+                  {
+                     "categoryId": "32",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Child Abuse",
+                     "example": "corporal injury to child, assault on a minor, child cruelty, child abuse"
+                  },
+                  {
+                     "categoryId": "33",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Child Endangerment  &  Neglect",
+                     "example": "endangering welfare of a child; parental neglect; endanger life / health of a child"
+                  },
+                  {
+                     "categoryId": "34",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Domestic Custody Related",
+                     "example": "interfere with custody, parental kidnapping"
+                  },
+                  {
+                     "categoryId": "35",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Domestic Violence",
+                     "example": "domestic assault, corporal injury to spouse / partner, battery - family violence, spousal abuse"
+                  },
+                  {
+                     "categoryId": "36",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Non-support Child / Spouse",
+                     "example": "child desertion / abandonment, flagrant non-support"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Judgment / Property Damage",
+               "subCategory": [
+                  {
+                     "categoryId": "37",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Disorderly Conduct  &  Like",
+                     "example": "disorderly conduct, criminal mischief, curfew violations"
+                  },
+                  {
+                     "categoryId": "38",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Disturbing the Peace",
+                     "example": "breach of peace, unreasonable noise"
+                  },
+                  {
+                     "categoryId": "39",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Other - Misconduct",
+                     "example": "official / forbidden misconduct, violation of oath by public officer; military deserter; abuse of discretion; disposing of property under lien"
+                  },
+                  {
+                     "categoryId": "40",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Trespass",
+                     "example": "trespassing, entering without authority, placing debris on private property, refuse to leave property on order"
+                  },
+                  {
+                     "categoryId": "41",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Vandalism  &  Property Damage",
+                     "example": "vandalism, criminal damage to property, cut a utility line, destruction of private property, graffiti"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Security Related",
+               "subCategory": [
+                  {
+                     "categoryId": "42",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Security Related",
+                     "subCategory": "Commercial Transportation",
+                     "example": "Board aircraft with weapon, ,discharge weapon or missile into vehicle, carry weapon into airport or other restricted area"
+                  },
+                  {
+                     "categoryId": "43",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Security Related",
+                     "subCategory": "Computer Crimes",
+                     "example": "Hacking, denial of service, unlawful access of computer, cyber stalking, computer fraud"
+                  },
+                  {
+                     "categoryId": "44",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Security Related",
+                     "subCategory": "Hazardous Materials",
+                     "example": "Store hazardous waste w/o permit, fail to report hazmat release, carry tear gas / bomb, possess destructive device"
+                  },
+                  {
+                     "categoryId": "45",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Security Related",
+                     "subCategory": "Immigration",
+                     "example": "Transporting aliens within the US, harboring illegal alien, re-entry of deported person, entering marriage to evade immigration"
+                  },
+                  {
+                     "categoryId": "46",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Security Related",
+                     "subCategory": "Terrorism/Terroristic Threats",
+                     "example": "Terroristic threats / acts, threaten violence with intent to terrorize, bomb threat, hostage taking"
+                  },
+                  {
+                     "categoryId": "47",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Security Related",
+                     "subCategory": "Treason",
+                     "example": "Treason, attempt sabotage / sedition"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Sex Crimes",
+               "subCategory": [
+                  {
+                     "categoryId": "48",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Child Related",
+                     "example": "child molestation, indecency with a child, lewd act on a child, statutory rape, sexual assault on a minor"
+                  },
+                  {
+                     "categoryId": "49",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Miscellaneous",
+                     "example": "indecent exposure, public indecency, lewd conduct, obscene material, pornography, peeping, voyeurism"
+                  },
+                  {
+                     "categoryId": "50",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Offender",
+                     "example": "failure to register, violate conditions / requirements"
+                  },
+                  {
+                     "categoryId": "51",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Prostitution",
+                     "example": "patronizing a prostitute;offering prostitution; solicitation for sex act; pandering"
+                  },
+                  {
+                     "categoryId": "52",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Unlawful Contact",
+                     "example": "offensive touching, incest, carnal knowledge, unlawful voluntary sexual relations, touch intimate part of another person"
+                  },
+                  {
+                     "categoryId": "53",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Violence",
+                     "example": "rape, sexual assault, gross sexual imposition, sexual battery"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Substance Abuse",
+               "subCategory": [
+                  {
+                     "categoryId": "54",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Substance Abuse",
+                     "subCategory": "Drugs - Distribution",
+                     "example": "distribute / manufacture / possess with intent to sell"
+                  },
+                  {
+                     "categoryId": "55",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Substance Abuse",
+                     "subCategory": "Drugs - Possession",
+                     "example": "possession of any drug except marijuana, possession controlled substance without prescription, buy controlled substance, narcotic drug violation"
+                  },
+                  {
+                     "categoryId": "56",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Substance Abuse",
+                     "subCategory": "DUI - Alcohol  &  Unspecified",
+                     "example": "DUI or equivalent if alcohol is stated or if no contributing intoxicant is listed"
+                  },
+                  {
+                     "categoryId": "57",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Substance Abuse",
+                     "subCategory": "DUI - Drug Related",
+                     "example": "DUI or equivalent if 'drug related' is specified (or any specific drug)"
+                  },
+                  {
+                     "categoryId": "58",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Substance Abuse",
+                     "subCategory": "Intoxication - Alcohol  &  Unspecified",
+                     "example": "Public intoxication, under the influence, public drunk, drunk  &  disorderly, intoxicated  &  disruptive"
+                  },
+                  {
+                     "categoryId": "59",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Substance Abuse",
+                     "subCategory": "Intoxication - Drugs",
+                     "example": "Under the influence of controlled substance, public intoxication excluding alcohol, use narcotics / crack / (any specified drug)"
+                  },
+                  {
+                     "categoryId": "60",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Substance Abuse",
+                     "subCategory": "Marijuana - Distribution",
+                     "example": "sell / distribute / manufacture, possession with intent to sell"
+                  },
+                  {
+                     "categoryId": "61",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Substance Abuse",
+                     "subCategory": "Marijuana - Possession",
+                     "example": "simple possession of marijuana, cultivate cannabis, purchase marijuana"
+                  },
+                  {
+                     "categoryId": "62",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Substance Abuse",
+                     "subCategory": "Other - Drug Related",
+                     "example": "drug paraphernalia;\n possession of prescription drug not in original container, drug violation near school, violate Controlled Substance Act; dangerous drug offense"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Theft  &  Burglary",
+               "subCategory": [
+                  {
+                     "categoryId": "63",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Bad Check",
+                     "example": "all types of bad check offenses regardless of court specific verbiage (not including forgery): Hot check, bogus check, theft by check, issue worthless check"
+                  },
+                  {
+                     "categoryId": "64",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Burglary",
+                     "example": "burglary, burglary of a dwelling / building / conveyance, commercial / residential burglary"
+                  },
+                  {
+                     "categoryId": "65",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Forgery",
+                     "example": "forgery of endorsement, forgery: make / alter document; traffic in counterfeit device, uttering forged instrument"
+                  },
+                  {
+                     "categoryId": "66",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Fraud",
+                     "example": "all types of fraud:  insurance, unemployment, credit card, any offense 'with fraudulent intent'"
+                  },
+                  {
+                     "categoryId": "67",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Identity Theft Related",
+                     "example": "financial identity theft, impersonation, use identity of another, obtain personal information without permission"
+                  },
+                  {
+                     "categoryId": "68",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Receiving / Possession",
+                     "example": "dealing in stolen property, conceal stolen property, possess stolen goods, illegal possession of credit card"
+                  },
+                  {
+                     "categoryId": "69",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Securities Related",
+                     "example": "Securities fraud, solicitation to commit securities fraud, SEC violations"
+                  },
+                  {
+                     "categoryId": "70",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Tax Related",
+                     "example": "Fail to pay sales tax, failure to file income tax, possess tobacco, alcohol or controlled substance without tax stamp, tax evasion, failure to pay tax"
+                  },
+                  {
+                     "categoryId": "71",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Theft",
+                     "example": "larceny, stealing, shoplifting, taking without permission, safecracking, swindle, embezzle"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Traffic",
+               "subCategory": [
+                  {
+                     "categoryId": "72",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Aggravated Traffic",
+                     "example": "traffic charge specifying 'Aggravated'"
+                  },
+                  {
+                     "categoryId": "73",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Driving with Revoked License",
+                     "example": "Driving while license suspended / revoked (includes suspended, restricted, revoked  &  denied)"
+                  },
+                  {
+                     "categoryId": "74",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Leaving the Scene",
+                     "example": "Hit  &  Run, Driver's duty to stop at scene of accident; fail to stop / accident; Leave scene of accident"
+                  },
+                  {
+                     "categoryId": "75",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Driving without License",
+                     "example": "unlicensed operator, no valid license"
+                  },
+                  {
+                     "categoryId": "76",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Other License Related",
+                     "example": "driving in violation of restrictions, no after dark driving,  allow unlicensed person to drive, fail to change name or address on license"
+                  },
+                  {
+                     "categoryId": "77",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Reckless Driving",
+                     "example": "reckless driving, reckless driving by speed"
+                  },
+                  {
+                     "categoryId": "78",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Traffic Insurance Related",
+                     "example": "no proof of financial responsibility, no insurance"
+                  },
+                  {
+                     "categoryId": "79",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Traffic Moving Violation - Other",
+                     "example": "stop sign / failure to yield, careless driving, distracted driving"
+                  },
+                  {
+                     "categoryId": "80",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Traffic Moving Violation - Speed"
+                  },
+                  {
+                     "categoryId": "81",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Traffic - Other Traffic",
+                     "example": "equipment violations: windshield, brakes, window tint, tire tread, mirrors"
+                  },
+                  {
+                     "categoryId": "82",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Traffic - Pedestrian / Bicycle Related"
+                  },
+                  {
+                     "categoryId": "83",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Traffic Registration  &  Inspection",
+                     "example": "no / expired registration or inspection sticker, invalid / expired tag"
+                  },
+                  {
+                     "categoryId": "84",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Traffic",
+                     "subCategory": "Traffic Seatbelt / Safety Related",
+                     "example": "seatbelt, car seat, child restraints, motorcycle helmets"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Felonies  &  SOR",
+               "category": "Violence  &  Threat",
+               "subCategory": [
+                  {
+                     "categoryId": "85",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Animal Cruelty",
+                     "example": "confine / abandon animal without water / food; dog fighting; cruelty to animals"
+                  },
+                  {
+                     "categoryId": "86",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Arson",
+                     "example": "arson, attempted arson, burn real property"
+                  },
+                  {
+                     "categoryId": "87",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Assault  &  Battery",
+                     "example": "assault, aggravated assault, battery, assault / battery no weapon"
+                  },
+                  {
+                     "categoryId": "88",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Attempted Murder",
+                     "example": "attempted murder, assault with intent to kill"
+                  },
+                  {
+                     "categoryId": "89",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Fighting",
+                     "example": "fight in public, affray"
+                  },
+                  {
+                     "categoryId": "90",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Hate Crimes",
+                     "example": "Ethnic intimidation, place burning cross, bias crime"
+                  },
+                  {
+                     "categoryId": "91",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Kidnapping",
+                     "example": "kidnapping, abduction, false imprisonment"
+                  },
+                  {
+                     "categoryId": "92",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Manslaughter",
+                     "example": "manslaughter, criminally negligent homicide, voluntary / involuntary manslaughter, reckless homicide"
+                  },
+                  {
+                     "categoryId": "93",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Murder Related",
+                     "example": "murder, homicide, solicit to murder"
+                  },
+                  {
+                     "categoryId": "94",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Other Violence",
+                     "example": "home invasion, carjacking"
+                  },
+                  {
+                     "categoryId": "95",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Robbery",
+                     "example": "robbery, attempted robbery, aggravated robbery, robbery no weapon, strong-arm robbery"
+                  },
+                  {
+                     "categoryId": "96",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Stalk / Harass / Threats",
+                     "example": "criminal threatening, harassment, threatening phone calls, menacing behavior, stalking, protection order violation, retaliation"
+                  },
+                  {
+                     "categoryId": "97",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Tampering",
+                     "example": "witness or judicial tampering"
+                  },
+                  {
+                     "categoryId": "98",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Vehicular Manslaughter",
+                     "example": "DUI Manslaughter; Homicide by Vehicle"
+                  },
+                  {
+                     "categoryId": "99",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Weapons - Criminal",
+                     "example": "felon in possession of firearm, criminal possession of a weapon; criminal sale of firearm"
+                  },
+                  {
+                     "categoryId": "100",
+                     "compCategory": "Felonies  &  SOR",
+                     "category": "Violence  &  Threat",
+                     "subCategory": "Weapons - Use",
+                     "example": "armed crimes (armed robbery, etc.); unlawful use of weapon"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "compCategoryName": "Watchlist Fraud Database",
+         "AdjCategory": [
+            {
+               "compCategory": "Watchlist Fraud Database",
+               "category": "Watchlist - OIG / GSA",
+               "subCategory": [
+                  {
+                     "categoryId": "353",
+                     "compCategory": "Watchlist Fraud Database",
+                     "category": "Watchlist - OIG / GSA",
+                     "subCategory": "No record found",
+                     "score": "E"
+                  },
+                  {
+                     "categoryId": "354",
+                     "compCategory": "Watchlist Fraud Database",
+                     "category": "Watchlist - OIG / GSA",
+                     "subCategory": "Any reportable record found"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Watchlist Fraud Database",
+               "category": "Fraud - FACIS Level 3",
+               "subCategory": [
+                  {
+                     "categoryId": "355",
+                     "compCategory": "Watchlist Fraud Database",
+                     "category": "Fraud - FACIS Level 3",
+                     "subCategory": "No record found",
+                     "score": "E"
+                  },
+                  {
+                     "categoryId": "356",
+                     "compCategory": "Watchlist Fraud Database",
+                     "category": "Fraud - FACIS Level 3",
+                     "subCategory": "Any reportable record found"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "compCategoryName": "Misdemeanor",
+         "AdjCategory": [
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Civil Disobedience",
+               "subCategory": [
+                  {
+                     "categoryId": "101",
+                     "compCategory": "Misdemeanor",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Alcohol",
+                     "example": "illegal possession, public consumption, provide to minor, unsealed container in passenger area of vehicle"
+                  },
+                  {
+                     "categoryId": "102",
+                     "compCategory": "Misdemeanor",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Animal Ordinance",
+                     "example": "dog not on leash, no tags, barking dogs"
+                  },
+                  {
+                     "categoryId": "103",
+                     "compCategory": "Misdemeanor",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Boating  &  Recreation Violations",
+                     "example": "no personal floatation device, no wake zone violation, water-skier without observer"
+                  },
+                  {
+                     "categoryId": "104",
+                     "compCategory": "Misdemeanor",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Fish  &  Game",
+                     "example": "hunting  / fishing w/o permit, undersize fish, no hunter orange"
+                  },
+                  {
+                     "categoryId": "105",
+                     "compCategory": "Misdemeanor",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Other Civil Ordinance",
+                     "example": "city / county code violations: illegal sale of fireworks, illegal dumping, no building permit, weeds too high, unlicensed vendor"
+                  },
+                  {
+                     "categoryId": "106",
+                     "compCategory": "Misdemeanor",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Public Nuisance",
+                     "example": "in park after dark, begging, public urination, littering, unlawful storage, pollutants in waterways"
+                  },
+                  {
+                     "categoryId": "107",
+                     "compCategory": "Misdemeanor",
+                     "category": "Civil Disobedience",
+                     "subCategory": "Tobacco",
+                     "example": "sell tobacco to minor"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Criminal Intent",
+               "subCategory": [
+                  {
+                     "categoryId": "108",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Abuse",
+                     "example": "elder abuse, abuse of vulnerable / disabled adult, patient abuse, abuse by caretaker"
+                  },
+                  {
+                     "categoryId": "109",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Bribery",
+                     "example": "attempt to influence public servant, offer / accept a bribe"
+                  },
+                  {
+                     "categoryId": "110",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Child Related",
+                     "example": "not sending child to school, leave child unattended"
+                  },
+                  {
+                     "categoryId": "111",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Civil Rights Violations",
+                     "example": "wiretapping, eavesdropping, invasion of privacy, violate civil rights, violate rights of prisoner / person in custody"
+                  },
+                  {
+                     "categoryId": "112",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Conspiracy / Accessory",
+                     "example": "aid  &  abet, conspiracy before / after the fact, engage in organized criminal activity, money laundering, gang / mob action"
+                  },
+                  {
+                     "categoryId": "113",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Corruption of Minor",
+                     "example": "contributing to the delinquency of a minor, unlawful transaction with a minor"
+                  },
+                  {
+                     "categoryId": "114",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Criminal Tools",
+                     "example": "possession of burglary tools, instruments of crime"
+                  },
+                  {
+                     "categoryId": "115",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Endangerment  &  Neglect",
+                     "example": "Criminal mistreatment, reckless endangerment, wanton endangerment, neglect or abandon vulnerable person"
+                  },
+                  {
+                     "categoryId": "116",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "False Statements  &  Reports",
+                     "example": "false report of a crime, fictitious information to officer, false alarm"
+                  },
+                  {
+                     "categoryId": "117",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Gambling",
+                     "example": "gambling promotion, engage in unlawful gambling"
+                  },
+                  {
+                     "categoryId": "118",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Identity Related",
+                     "example": "unlawful use if ID; present false identification; misrepresent age"
+                  },
+                  {
+                     "categoryId": "119",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Impersonating an Officer",
+                     "example": "impersonating a public officer / employee / peace officer, blue light prohibited"
+                  },
+                  {
+                     "categoryId": "120",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Injury",
+                     "example": "any offense resulting in injury or death unless Vehicular related (separate category), Reckless Injury, Negligent Injury, Willful Injury, Physical Harm specification"
+                  },
+                  {
+                     "categoryId": "121",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Juvenile / Minor Participation",
+                     "example": "Truancy, anything 'by a minor'"
+                  },
+                  {
+                     "categoryId": "122",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Loiter  &  Prowl",
+                     "example": "loitering with intent, lurking, prowling, gang loitering"
+                  },
+                  {
+                     "categoryId": "123",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Other Non-violent",
+                     "example": "annoying / crank phone calls;non-emergency calls;improper use of 9-1-1;maintain common nuisance"
+                  },
+                  {
+                     "categoryId": "124",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Perjury  &  Contempt",
+                     "example": "criminal contempt, perjury, failure to comply with court order"
+                  },
+                  {
+                     "categoryId": "125",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Resist / Obstruct / Evade / Flee",
+                     "example": "bail jumping, evade / resist arrest (w/o violence), obstruct justice"
+                  },
+                  {
+                     "categoryId": "126",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Tampering - Nonviolent",
+                     "example": "tampering with documents, utility service, etc."
+                  },
+                  {
+                     "categoryId": "127",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Vehicular Assault / Injury / Death",
+                     "example": "Vehicular assault; any vehicle or traffic related offenses that resulted in injury or death (not including Vehicular Homicide)."
+                  },
+                  {
+                     "categoryId": "128",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Vehicular Related",
+                     "example": "joyriding, unauthorized use of vehicle (not auto theft), etc."
+                  },
+                  {
+                     "categoryId": "129",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Warrant  &  Probation / Appearance",
+                     "example": "Probation violation, Bail jumping, Failure to appear as a separate offense (this is not for active warrants)"
+                  },
+                  {
+                     "categoryId": "130",
+                     "compCategory": "Misdemeanor",
+                     "category": "Criminal Intent",
+                     "subCategory": "Weapons - Nonviolent",
+                     "example": "carry concealed w/o permit, unlawful discharge (accidental), own / possess prohibited weapon, pointing a weapon"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Domestic Crimes",
+               "subCategory": [
+                  {
+                     "categoryId": "131",
+                     "compCategory": "Misdemeanor",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Child Abuse",
+                     "example": "corporal injury to child, assault on a minor, child cruelty, child abuse"
+                  },
+                  {
+                     "categoryId": "132",
+                     "compCategory": "Misdemeanor",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Child Endangerment  &  Neglect",
+                     "example": "endangering welfare of a child; parental neglect; endanger life / health of a child"
+                  },
+                  {
+                     "categoryId": "133",
+                     "compCategory": "Misdemeanor",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Domestic Custody Related",
+                     "example": "interfere with custody, parental kidnapping"
+                  },
+                  {
+                     "categoryId": "134",
+                     "compCategory": "Misdemeanor",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Domestic Violence",
+                     "example": "domestic assault, corporal injury to spouse / partner, battery - family violence, spousal abuse"
+                  },
+                  {
+                     "categoryId": "135",
+                     "compCategory": "Misdemeanor",
+                     "category": "Domestic Crimes",
+                     "subCategory": "Non-support Child / Spouse",
+                     "example": "child desertion / abandonment, flagrant non-support"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Judgment / Property Damage",
+               "subCategory": [
+                  {
+                     "categoryId": "136",
+                     "compCategory": "Misdemeanor",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Disorderly Conduct  &  Like",
+                     "example": "disorderly conduct, criminal mischief, curfew violations"
+                  },
+                  {
+                     "categoryId": "137",
+                     "compCategory": "Misdemeanor",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Disturbing the Peace",
+                     "example": "breach of peace, unreasonable noise"
+                  },
+                  {
+                     "categoryId": "138",
+                     "compCategory": "Misdemeanor",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Other - Misconduct",
+                     "example": "official / forbidden misconduct, violation of oath by public officer; military deserter; abuse of discretion; disposing of property under lien"
+                  },
+                  {
+                     "categoryId": "139",
+                     "compCategory": "Misdemeanor",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Trespass",
+                     "example": "trespassing, entering without authority, placing debris on private property, refuse to leave property on order"
+                  },
+                  {
+                     "categoryId": "140",
+                     "compCategory": "Misdemeanor",
+                     "category": "Judgment / Property Damage",
+                     "subCategory": "Vandalism  &  Property Damage",
+                     "example": "vandalism, criminal damage to property, cut a utility line, destruction of private property, graffiti"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Security Related",
+               "subCategory": [
+                  {
+                     "categoryId": "141",
+                     "compCategory": "Misdemeanor",
+                     "category": "Security Related",
+                     "subCategory": "Commercial Transportation",
+                     "example": "Board aircraft with weapon, ,discharge weapon or missile into vehicle, carry weapon into airport or other restricted area"
+                  },
+                  {
+                     "categoryId": "142",
+                     "compCategory": "Misdemeanor",
+                     "category": "Security Related",
+                     "subCategory": "Computer Crimes",
+                     "example": "Hacking, denial of service, unlawful access of computer, cyber stalking, computer fraud"
+                  },
+                  {
+                     "categoryId": "143",
+                     "compCategory": "Misdemeanor",
+                     "category": "Security Related",
+                     "subCategory": "Hazardous Materials",
+                     "example": "Store hazardous waste w/o permit, fail to report hazmat release, carry tear gas / bomb, possess destructive device"
+                  },
+                  {
+                     "categoryId": "144",
+                     "compCategory": "Misdemeanor",
+                     "category": "Security Related",
+                     "subCategory": "Immigration",
+                     "example": "Transporting aliens within the US, harboring illegal alien, re-entry of deported person, entering marriage to evade immigration"
+                  },
+                  {
+                     "categoryId": "145",
+                     "compCategory": "Misdemeanor",
+                     "category": "Security Related",
+                     "subCategory": "Terrorism/Terroristic Threats",
+                     "example": "Terroristic threats / acts, threaten violence with intent to terrorize, bomb threat, hostage taking"
+                  },
+                  {
+                     "categoryId": "146",
+                     "compCategory": "Misdemeanor",
+                     "category": "Security Related",
+                     "subCategory": "Treason",
+                     "example": "Treason, attempt sabotage / sedition"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Sex Crimes",
+               "subCategory": [
+                  {
+                     "categoryId": "147",
+                     "compCategory": "Misdemeanor",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Child Related",
+                     "example": "child molestation, indecency with a child, lewd act on a child, statutory rape, sexual assault on a minor"
+                  },
+                  {
+                     "categoryId": "148",
+                     "compCategory": "Misdemeanor",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Miscellaneous",
+                     "example": "indecent exposure, public indecency, lewd conduct, obscene material, pornography, peeping, voyeurism"
+                  },
+                  {
+                     "categoryId": "149",
+                     "compCategory": "Misdemeanor",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Offender",
+                     "example": "failure to register, violate conditions / requirements"
+                  },
+                  {
+                     "categoryId": "150",
+                     "compCategory": "Misdemeanor",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Prostitution",
+                     "example": "patronizing a prostitute; offering prostitution; solicitation for sex act; pandering"
+                  },
+                  {
+                     "categoryId": "151",
+                     "compCategory": "Misdemeanor",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Unlawful Contact",
+                     "example": "offensive touching, incest, carnal knowledge, unlawful voluntary sexual relations, touch intimate part of another person"
+                  },
+                  {
+                     "categoryId": "152",
+                     "compCategory": "Misdemeanor",
+                     "category": "Sex Crimes",
+                     "subCategory": "Sex - Violence",
+                     "example": "rape, sexual assault, gross sexual imposition, sexual battery"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Substance Abuse",
+               "subCategory": [
+                  {
+                     "categoryId": "153",
+                     "compCategory": "Misdemeanor",
+                     "category": "Substance Abuse",
+                     "subCategory": "Drugs - Distribution",
+                     "example": "distribute / manufacture / possess with intent to sell"
+                  },
+                  {
+                     "categoryId": "154",
+                     "compCategory": "Misdemeanor",
+                     "category": "Substance Abuse",
+                     "subCategory": "Drugs - Possession",
+                     "example": "possession of any drug except marijuana, possession controlled substance without prescription, buy controlled substance, narcotic drug violation"
+                  },
+                  {
+                     "categoryId": "155",
+                     "compCategory": "Misdemeanor",
+                     "category": "Substance Abuse",
+                     "subCategory": "DUI - Alcohol  &  Unspecified",
+                     "example": "DUI or equivalent if alcohol is stated or if no contributing intoxicant is listed"
+                  },
+                  {
+                     "categoryId": "156",
+                     "compCategory": "Misdemeanor",
+                     "category": "Substance Abuse",
+                     "subCategory": "DUI - Drug Related",
+                     "example": "DUI or equivalent if 'drug related' is specified (or any specific drug)"
+                  },
+                  {
+                     "categoryId": "157",
+                     "compCategory": "Misdemeanor",
+                     "category": "Substance Abuse",
+                     "subCategory": "Intoxication - Alcohol  &  Unspecified",
+                     "example": "Public intoxication, under the influence, public drunk, drunk  &  disorderly, intoxicated  &  disruptive"
+                  },
+                  {
+                     "categoryId": "158",
+                     "compCategory": "Misdemeanor",
+                     "category": "Substance Abuse",
+                     "subCategory": "Intoxication - Drugs",
+                     "example": "Under the influence of controlled substance, public intoxication excluding alcohol, use narcotics / crack / (any specified drug)"
+                  },
+                  {
+                     "categoryId": "159",
+                     "compCategory": "Misdemeanor",
+                     "category": "Substance Abuse",
+                     "subCategory": "Marijuana - Distribution",
+                     "example": "sell / distribute / manufacture, possession with intent to sell"
+                  },
+                  {
+                     "categoryId": "160",
+                     "compCategory": "Misdemeanor",
+                     "category": "Substance Abuse",
+                     "subCategory": "Marijuana - Possession",
+                     "example": "simple possession of marijuana, cultivate cannabis, purchase marijuana"
+                  },
+                  {
+                     "categoryId": "161",
+                     "compCategory": "Misdemeanor",
+                     "category": "Substance Abuse",
+                     "subCategory": "Other - Drug Related",
+                     "example": "drug paraphernalia; possession of prescription drug not in original container, drug violation near school, violate Controlled Substance Act; dangerous drug offense"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Theft  &  Burglary",
+               "subCategory": [
+                  {
+                     "categoryId": "162",
+                     "compCategory": "Misdemeanor",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Bad Check",
+                     "example": "all types of bad check offenses regardless of court specific verbiage (not including forgery): Hot check, bogus check, theft by check, issue worthless check"
+                  },
+                  {
+                     "categoryId": "163",
+                     "compCategory": "Misdemeanor",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Burglary",
+                     "example": "burglary, burglary of a dwelling / building / conveyance, commercial / residential burglary"
+                  },
+                  {
+                     "categoryId": "164",
+                     "compCategory": "Misdemeanor",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Forgery",
+                     "example": "forgery of endorsement, forgery: make / alter document; traffic in counterfeit device, uttering forged instrument"
+                  },
+                  {
+                     "categoryId": "165",
+                     "compCategory": "Misdemeanor",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Fraud",
+                     "example": "all types of fraud:  insurance, unemployment, credit card, any offense 'with fraudulent intent'"
+                  },
+                  {
+                     "categoryId": "166",
+                     "compCategory": "Misdemeanor",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Identity Theft Related",
+                     "example": "financial identity theft, impersonation, use identity of another, obtain personal information without permission"
+                  },
+                  {
+                     "categoryId": "167",
+                     "compCategory": "Misdemeanor",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Receiving / Possession",
+                     "example": "dealing in stolen property, conceal stolen property, possess stolen goods, illegal possession of credit card"
+                  },
+                  {
+                     "categoryId": "168",
+                     "compCategory": "Misdemeanor",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Securities Related",
+                     "example": "Securities fraud, solicitation to commit securities fraud, SEC violations"
+                  },
+                  {
+                     "categoryId": "169",
+                     "compCategory": "Misdemeanor",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Tax Related",
+                     "example": "Fail to pay sales tax, failure to file income tax, possess tobacco, alcohol or controlled substance without tax stamp, tax evasion, failure to pay tax"
+                  },
+                  {
+                     "categoryId": "170",
+                     "compCategory": "Misdemeanor",
+                     "category": "Theft  &  Burglary",
+                     "subCategory": "Theft",
+                     "example": "larceny, stealing, shoplifting, taking without permission, safecracking, swindle, embezzle"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Traffic",
+               "subCategory": [
+                  {
+                     "categoryId": "171",
+                     "compCategory": "Misdemeanor",
+                     "category": "Traffic",
+                     "subCategory": "Aggravated Traffic",
+                     "example": "traffic charge specifying 'Aggravated'"
+                  },
+                  {
+                     "categoryId": "172",
+                     "compCategory": "Misdemeanor",
+                     "category": "Traffic",
+                     "subCategory": "Driving with Revoked License",
+                     "example": "Driving while license suspended / revoked (includes suspended, restricted, revoked  &  denied)"
+                  },
+                  {
+                     "categoryId": "173",
+                     "compCategory": "Misdemeanor",
+                     "category": "Traffic",
+                     "subCategory": "Leaving the Scene",
+                     "example": "Hit  &  Run, Driver's duty to stop at scene of accident; fail to stop / accident; Leave scene of accident"
+                  }
+               ]
+            },
+            {
+               "compCategory": "Misdemeanor",
+               "category": "Violence  &  Threats",
+               "subCategory": [
+                  {
+                     "categoryId": "174",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Animal Cruelty",
+                     "example": "confine / abandon animal without water / food; dog fighting; cruelty to animals"
+                  },
+                  {
+                     "categoryId": "175",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Arson",
+                     "example": "arson, attempted arson, burn real property"
+                  },
+                  {
+                     "categoryId": "176",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Assault  &  Battery",
+                     "example": "assault, aggravated assault, battery, assault / battery no weapon"
+                  },
+                  {
+                     "categoryId": "177",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Attempted Murder",
+                     "example": "attempted murder, assault with intent to kill"
+                  },
+                  {
+                     "categoryId": "178",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Fighting",
+                     "example": "fight in public, affray"
+                  },
+                  {
+                     "categoryId": "179",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Hate Crimes",
+                     "example": "Ethnic intimidation, place burning cross, bias crime"
+                  },
+                  {
+                     "categoryId": "180",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Kidnapping",
+                     "example": "kidnapping, abduction, false imprisonment"
+                  },
+                  {
+                     "categoryId": "181",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Manslaughter",
+                     "example": "manslaughter, criminally negligent homicide, voluntary / involuntary manslaughter, reckless homicide"
+                  },
+                  {
+                     "categoryId": "182",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Murder Related",
+                     "example": "murder, homicide, solicit to murder"
+                  },
+                  {
+                     "categoryId": "183",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Other Violence",
+                     "example": "home invasion, carjacking"
+                  },
+                  {
+                     "categoryId": "184",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Robbery",
+                     "example": "robbery, attempted robbery, aggravated robbery, robbery no weapon, strong-arm robbery"
+                  },
+                  {
+                     "categoryId": "185",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Stalk / Harass / Threats",
+                     "example": "criminal threatening, harassment, threatening phone calls, menacing behavior, stalking, protection order violation, retaliation"
+                  },
+                  {
+                     "categoryId": "186",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Tampering",
+                     "example": "witness or judicial tampering"
+                  },
+                  {
+                     "categoryId": "187",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Vehicular Manslaughter",
+                     "example": "DUI Manslaughter; Homicide by Vehicle"
+                  },
+                  {
+                     "categoryId": "188",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Weapons - Criminal",
+                     "example": "felon in possession of firearm, criminal possession of a weapon; criminal sale of firearm"
+                  },
+                  {
+                     "categoryId": "189",
+                     "compCategory": "Misdemeanor",
+                     "category": "Violence  &  Threats",
+                     "subCategory": "Weapons - Use",
+                     "example": "armed crimes (armed robbery, etc.); unlawful use of weapon"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "compCategoryName": "FIN",
+         "AdjCategory": {
+            "compCategory": "FIN",
+            "category": "CREDIT",
+            "subCategory": [
+               {
+                  "categoryId": "278",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "No derogatory information found",
+                  "score": "E"
+               },
+               {
+                  "categoryId": "279",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "No record found"
+               },
+               {
+                  "categoryId": "280",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Frozen Credit"
+               },
+               {
+                  "categoryId": "281",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Foreclosure"
+               },
+               {
+                  "categoryId": "282",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Discharged Bankruptcies"
+               },
+               {
+                  "categoryId": "283",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Pending / Filed Bankruptcies"
+               },
+               {
+                  "categoryId": "284",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Dismissed Bankruptcies"
+               },
+               {
+                  "categoryId": "285",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Medically related collections / bad debt"
+               },
+               {
+                  "categoryId": "286",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Revolving or installment loans that are 30 / 60 / 90 days past due (can specify amount of times past due or have separate criteria for 30 vs 60 vs 90 etc.)"
+               },
+               {
+                  "categoryId": "287",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Revolving or installment loans that are considered bad debt, delinquent, in collections or have been charged off and have not been paid in full or have balances due"
+               },
+               {
+                  "categoryId": "288",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Revolving or installment loans that were considered bad debt, delinquent, in collections or had been charged off that have been paid in full or are currently being paid as agreed"
+               },
+               {
+                  "categoryId": "289",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Judgments with balance due"
+               },
+               {
+                  "categoryId": "290",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Judgments with zero balance"
+               },
+               {
+                  "categoryId": "291",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Repossessions"
+               },
+               {
+                  "categoryId": "292",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Accounts settled with creditors for less than the amount owed"
+               },
+               {
+                  "categoryId": "293",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Liens or levies with zero balance"
+               },
+               {
+                  "categoryId": "294",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Tax lien / levy with balance due"
+               },
+               {
+                  "categoryId": "295",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Other lien / levy with balance due"
+               },
+               {
+                  "categoryId": "296",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Student Loans in Collections"
+               },
+               {
+                  "categoryId": "297",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Non-payment of Child Support"
+               },
+               {
+                  "categoryId": "298",
+                  "compCategory": "FIN",
+                  "category": "CREDIT",
+                  "subCategory": "Any consideration not listed"
+               }
+            ]
+         }
+      },
+      {
+         "compCategoryName": "SSNV",
+         "AdjCategory": {
+            "compCategory": "SSNV",
+            "category": "SSN",
+            "subCategory": [
+               {
+                  "categoryId": "299",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "A SOCIAL SECURITY NUMBER VERIFICATION SEARCH HAS BEEN COMPLETED AND NO DISCREPANCIES WERE FOUND",
+                  "score": "E"
+               },
+               {
+                  "categoryId": "300",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "SUBJECT NAME RETURNED MATCHED WITH POSSIBLE NICKNAME.",
+                  "score": "E"
+               },
+               {
+                  "categoryId": "301",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "A NAME DESCREPANCY WAS FOUND - minor misspellings / hyphenated names",
+                  "score": "E"
+               },
+               {
+                  "categoryId": "302",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "A NAME DESCREPANCY WAS FOUND - major misspellings / transposed names"
+               },
+               {
+                  "categoryId": "303",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "A NAME DESCREPANCY WAS FOUND - totally different name"
+               },
+               {
+                  "categoryId": "304",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "SUBJECT MIDDLE NAME/INITIAL DOES NOT MATCH WITH MIDDLE NAME/INITIAL PROVIDED"
+               },
+               {
+                  "categoryId": "305",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "THE SOCIAL SECURITY NUMBER PROVIDED DOES NOT MATCH THE SOCIAL SECURITY NUMBER RETURNED BY THE BUREAU"
+               },
+               {
+                  "categoryId": "306",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "NO VALID SSN PROVIDED (placeholder number used, i.e. all one digit or sequential digits)  DATA MATCHED BY OTHER IDENTIFIERS."
+               },
+               {
+                  "categoryId": "307",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "SSN PROVIDED IS REGISTERED TO A MINOR - SOCIAL SECURITY NUMBER VERIFICATION CANNOT BE COMPLETED"
+               },
+               {
+                  "categoryId": "308",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "NO RECORD FOUND AT THE CREDIT BUREAU."
+               },
+               {
+                  "categoryId": "309",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "CONSUMER HAS PLACED A FREEZE ON THEIR CREDIT INFORMATION.  ORDER CANNOT BE COMPLETED."
+               },
+               {
+                  "categoryId": "310",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "INFORMATION FOUND IN THE CREDIT BUREAU FILES HAS BEEN REPORTED BY THE CONSUMER AS FRAUDULENT. SOCIAL SECURITY NUMBER VERIFICATION CANNOT BE COMPLETED"
+               },
+               {
+                  "categoryId": "311",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "CONSUMER HAS REPORTED POSSIBLE FRAUDULENT ACTIVITY ON THE INFORMATION PROVIDED.  POSSIBLE VICTIM OF FRAUD."
+               },
+               {
+                  "categoryId": "312",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "HIGH PROBABILITY SOCIAL SECURITY NUMBER PROVIDED BELONGS TO ANOTHER CONSUMER."
+               },
+               {
+                  "categoryId": "313",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "INVALID INFORMATION PROVIDED - CREDIT BUREAU UNABLE TO MATCH BASED ON CONSUMER INFORMATION PROVIDED"
+               },
+               {
+                  "categoryId": "314",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "AN ADDRESS DISCREPANCY WAS FOUND. SUBJECT ADDRESS DOES NOT MATCH ADDRESS ON FILE."
+               },
+               {
+                  "categoryId": "315",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "STATE LEGISLATION DOES NOT ALLOW MATCHING ON SOCIAL SECURITY NUMBER. NO RECORD WAS FOUND AT THE CREDIT BUREAU USING NAME, ADDRESS, DATE OF BIRTH INFORMATION"
+               },
+               {
+                  "categoryId": "316",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "SOCIAL SECURITY NUMBER ISSUED BY THE SOCIAL SECURITY ADMINISTRATION WITHIN THE LAST 5 YEARS."
+               },
+               {
+                  "categoryId": "317",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "SOCIAL SECURITY NUMBER ISSUE DATE CANNOT BE VERIFIED"
+               },
+               {
+                  "categoryId": "318",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "SSN HAS NOT BEEN ISSUED OR WAS ISSUED AFTER JUNE 2011"
+               },
+               {
+                  "categoryId": "319",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "SSN PROVIDED IS REGISTERED TO A DECEASED PERSON."
+               },
+               {
+                  "categoryId": "320",
+                  "compCategory": "SSNV",
+                  "category": "SSN",
+                  "subCategory": "SSN ISSUED PRIOR TO APPLICANT'S DATE OF BIRTH"
+               }
+            ]
+         }
+      }
+   ]
+}
